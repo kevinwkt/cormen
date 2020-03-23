@@ -29,5 +29,7 @@ For basic texts, I will be using ```groff```. If you want more information I wou
 
 ```groff/troff``` usually comes along with most *nix distros. However I have noticed that the ```groff``` included in my Ubuntu package-manager is not the widely-used version. Therefore, if the following command does not work, you will have to run ```sudo apt install groff``` in order to get the latest version.
 
-```groff -ms ./test.ms -T pdf > test.pdf``` should output a test pdf file.
+For the mathematical equation display format, we utilize ```eqn``` which also comes along in most *nix systems. Because of this we will use the ```-e``` flag when running ```groff```.
+
+```groff -e -ms ./test.ms -T pdf > test.pdf``` should output a test pdf file.
 
