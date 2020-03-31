@@ -33,3 +33,43 @@ For the mathematical equation display format, we utilize ```eqn``` which also co
 
 ```groff -e -ms ./test.ms -T pdf > test.pdf``` should output a test pdf file.
 
+### Progress
+
+In progress:
+Chapter 22 - Elementary Graph Algorithms
+
+- [x] Chapter 1	   - The Role of Algorithms in Computing
+- [ ] Chapter 2    - Getting Started
+- [ ] Chapter 3    - Growth of Functions
+- [ ] Chapter 4    - Divide-and-Conquer
+- [ ] Chapter 5    - Probabilistic Analysis and Randomized Algorithms
+- [ ] Chapter 6    - Heapsort
+- [ ] Chapter 7    - Quicksort
+- [ ] Chapter 8    - Sorting in Linear Time
+- [ ] Chapter 9    - Medians and Order Statistics
+- [ ] Chapter 10   - Elementary Data Structures
+- [ ] Chapter 11   - Hash Tables
+- [ ] Chapter 12   - Binary Search Trees
+- [ ] Chapter 13   - Red-Black Trees
+- [ ] Chapter 14   - Augmenting Data Structures
+- [ ] Chapter 15   - Dynamic Progamming
+- [ ] Chapter 16   - Greedy Algorithms
+- [ ] Chapter 17   - Amortized Analysis
+- [ ] Chapter 18   - B-Trees
+- [ ] Chapter 19   - Fibonacci Heaps
+- [ ] Chapter 20   - van Embe Boas Trees
+- [ ] Chapter 21   - Data Structures for Disjoint Sets
+- [ ] Chapter 22   - Elementary Graph Algorithms
+- [ ] Chapter 23   - Minimum Spanning Trees
+- [ ] Chapter 24   - Single-Source Shortest Paths
+- [ ] Chapter 25   - All-Pairs Shortest Paths
+- [ ] Chapter 26   - Maximum Flow
+- [ ] Chapter 27   - Multithreaded Algorithms
+- [ ] Chapter 28   - Matrix Operations
+- [ ] Chapter 29   - Linear Programming
+- [ ] Chapter 30   - Polynomials and the FFT
+- [ ] Chapter 31   - Number-Theoretic Algorithms
+- [ ] Chapter 32   - String Matching
+- [ ] Chapter 33   - Computational Geometry
+- [ ] Chapter 34   - NP-Completeness
+- [ ] Chapter 35   - Approximation Algorithms
